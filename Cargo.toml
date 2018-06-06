@@ -25,6 +25,8 @@ prost-build = "*"
 proptest = "0.6.0"
 png = "*"
 bresenham = "*"
+svg = "0.5"
+haversine = "0.2"
 
 [[example]]
 name = "render"
